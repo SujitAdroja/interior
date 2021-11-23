@@ -1,0 +1,24 @@
+#navbar {
+  flex-direction: column;
+}
+#navbar ul li {
+  margin: 0px 3px;
+}
+#navbar ul li a {
+  color: white;
+  font-size: 10px;
+  padding: 11px 0px;
+  margin: 6px 8px;
+}
+
+#home h1 {
+  font-size: 30px;
+}
+#home p {
+  font-size: 30px;
+  line-height: 25pxs;
+}
+button {
+  width: 100px;
+  padding: 10px 3px;
+}
